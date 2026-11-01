@@ -1,0 +1,15 @@
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\entity\Wishlist.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\controller\WishlistController.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\dto\CartSummary.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\security\SecurityConfig.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\service\WishlistService.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\controller\CartController.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\dto\AddToCartRequest.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\security\JwtAuthFilter.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\repository\CartItemRepository.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\security\JwtUtil.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\service\CartService.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\CartServiceApplication.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\repository\WishlistRepository.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\dto\OrderResponse.java
+E:\springboot with react\backend\cart-service\src\main\java\com\ecommerce\cart\entity\CartItem.java

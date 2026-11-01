@@ -1,0 +1,13 @@
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\dto\AuthResponse.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\security\UserDetailsServiceImpl.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\dto\RegisterRequest.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\dto\UpdateProfileRequest.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\security\JwtUtil.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\dto\LoginRequest.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\config\SecurityConfig.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\service\AuthService.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\repository\UserRepository.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\entity\User.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\security\JwtAuthFilter.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\AuthServiceApplication.java
+E:\springboot with react\backend\auth-service\src\main\java\com\ecommerce\auth\controller\AuthController.java

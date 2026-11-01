@@ -1,0 +1,9 @@
+com\ecommerce\recommendation\entity\SearchHistory.class
+com\ecommerce\recommendation\entity\AiChatMessage.class
+com\ecommerce\recommendation\entity\ProductRecommendation.class
+com\ecommerce\recommendation\entity\AiChatMessage$AiChatMessageBuilder.class
+com\ecommerce\recommendation\RecommendationServiceApplication.class
+com\ecommerce\recommendation\entity\ProductRecommendation$ProductRecommendationBuilder.class
+com\ecommerce\recommendation\entity\UserEvent.class
+com\ecommerce\recommendation\entity\SearchHistory$SearchHistoryBuilder.class
+com\ecommerce\recommendation\entity\UserEvent$UserEventBuilder.class

@@ -1,0 +1,15 @@
+com\ecommerce\auth\repository\UserRepository.class
+com\ecommerce\auth\dto\UpdateProfileRequest.class
+com\ecommerce\auth\dto\RegisterRequest.class
+com\ecommerce\auth\entity\User.class
+com\ecommerce\auth\entity\User$UserBuilder.class
+com\ecommerce\auth\security\UserDetailsServiceImpl.class
+com\ecommerce\auth\controller\AuthController.class
+com\ecommerce\auth\dto\AuthResponse.class
+com\ecommerce\auth\dto\LoginRequest.class
+com\ecommerce\auth\service\AuthService.class
+com\ecommerce\auth\dto\AuthResponse$AuthResponseBuilder.class
+com\ecommerce\auth\AuthServiceApplication.class
+com\ecommerce\auth\config\SecurityConfig.class
+com\ecommerce\auth\security\JwtUtil.class
+com\ecommerce\auth\security\JwtAuthFilter.class
